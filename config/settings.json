@@ -1,0 +1,8 @@
+{
+
+  "gmailQuery": "from:eventusmp@mydlinknotify.com is:unread subject:mydlink alert:Camera Name - Motion Detected",
+  "gmailMaxResults": 100,
+  "deviceId": "Lifx color 1000",
+  "outputFile": "dlinkmotiontime.txt",
+  "waitMinutes": 3
+}

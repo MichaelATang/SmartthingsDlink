@@ -1,0 +1,24 @@
+{
+  "name": "smartthingsdlink",
+  "version": "1.0.0",
+  "description": "Checks email for dlink motion alert and turns on smartthings switch",
+  "main": "dlinksmartthings.js",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7",
+    "moment": "^2.10.6",
+    "unirest": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smartthings",
+    "dlink",
+    "motion",
+    "sensor"
+  ],
+  "author": "Michael A. Tang",
+  "license": "GPL-3.0"
+}
