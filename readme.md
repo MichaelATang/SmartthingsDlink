@@ -5,14 +5,18 @@
 Install nodejs https://nodejs.org/
 
 !!! Note
+
     All json files from the steps below are placed in the smartthings/config directory
 
 ### Step 2:
-** Follow Step 1 and 2 from ** https://developers.google.com/gmail/api/quickstart/nodejs
-  This is to allow access from this project to your gmail accout
+** Follow Step 1 and 2 **
+
+ https://developers.google.com/gmail/api/quickstart/nodejs
+  This is to allow access from this project to your gmail account
 
 ### Step 3:
-** Follow the following to a gain access to your smart devices ** 
+** Use the following to a gain access to your smart devices ** 
+
    https://github.com/dpjanes/iotdb-smartthings#log-into-smartthings
 
 ### Step 4:
